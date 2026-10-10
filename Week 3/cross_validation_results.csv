@@ -1,0 +1,5 @@
+model,metric,mean,std
+Logistic Regression,accuracy,0.784,0.022
+Logistic Regression,f1,0.733,0.027
+Random Forest,accuracy,0.796,0.017
+Random Forest,f1,0.724,0.037
